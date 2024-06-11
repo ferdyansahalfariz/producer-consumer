@@ -1,0 +1,9 @@
+{
+  "type": "record",
+  "name": "Ulangan",
+  "fields": [
+    {"name": "id", "type": "string"},
+    {"name": "nilai", "type": "double"}
+  ]
+}
+
